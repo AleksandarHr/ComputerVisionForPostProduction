@@ -5,5 +5,5 @@ Credits: Initial state of the Skeleton code by Gergely Vass
 Simple linear filters (blrighten, blur, sobel), feature detection (Harris filter), feature tracking with outliers/inliers acceptance
 and rejection (RANSAC and DLT-RANSAC algorithms), homography matrix computation.
 ## Final Project
-Face replacement: https://www.youtube.com/watch?v=URu-h5iAMDQ<br />
+[Face replacement Demo](https://www.youtube.com/watch?v=Z9yH6xxAOxE)<br />
 Associated work: Hermon Deres
